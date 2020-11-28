@@ -10,7 +10,7 @@ const greeting = {
   username: "Dilan Loyola",
   title: "Hi all, I'm Dilan",
   subTitle: emoji("A dedicated and energetic individual seeking to join an organization as a software engineer to contribute to the delivery of quality software solutions by applying interpersonal skills and knowledge of program design."),
-  resumeLink: "https://drive.google.com/file/d/18hM9NHr3Lt865vSPxZpvDlQD2eLGKraJ/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1nBqOQJm1e2AnY-p2JAp0AFMesDU4WBo-/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -129,7 +129,7 @@ const workExperiences = {
       company: "SHMS",
       companylogo: require("./assets/images/SHMS.png"),
       date: "March 2020 – August 2020",
-      desc: "Consolidated healthcare data utilizing SQL Server Studio and T-SQL components in order to improve the runtime of stored procedures. Tasked with being available for End-Users and clients to resolve any issues that may occur with the UI application of SHMS. Worked on a ticket basis, tickets were sent in by our client and our team worked to resolve them on them using a priority list.",
+      desc: "Consolidated healthcare data utilizing SQL Server Studio and T-SQL components in order to improve the runtime of stored procedures. Tasked with being available for End-Users and clients to resolve any issues that may occur with the UI application of SHMS. Our team used a priority list to prioritize the tickets we needed to work on immediately.",
     },
     {
       role: "Software Engineer Intern",
