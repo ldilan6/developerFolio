@@ -10,7 +10,7 @@ const greeting = {
   username: "Dilan Loyola",
   title: "Hi all, I'm Dilan",
   subTitle: emoji("A dedicated and energetic individual seeking to join an organization as a software engineer to contribute to the delivery of quality software solutions by applying interpersonal skills and knowledge of program design."),
-  resumeLink: "https://drive.google.com/file/d/1nBqOQJm1e2AnY-p2JAp0AFMesDU4WBo-/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1ZBY5Lt50-4is9PyQ-OqFRPW5kI-jatxm/view?usp=sharing"
 };
 
 // Your Social Media Link
